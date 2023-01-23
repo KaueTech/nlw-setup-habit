@@ -54,7 +54,7 @@ $ cd web
 $ npm install
 
 # Iniciando o projeto Web
-$ npm start
+$ npm run dev
 ```
 ### Mobile
 
@@ -64,7 +64,7 @@ $ cd mobile
 $ npm install
 
 # Iniciando Server do mobile
-$ npm start
+$ npx expo start
 ```
 
 ## 🔖 Layout
